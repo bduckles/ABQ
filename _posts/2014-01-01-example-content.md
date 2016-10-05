@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Example content
+title: I'm playing around
 ---
 
 
@@ -8,11 +8,11 @@ title: Example content
   Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
 </div>
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+What am I doing here? <a href="#">dis parturient montes</a>, I don't know why this does this. *Will it be in Itals?.* More text that we want to know what it does
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> Is this text going to be in a block text? That's my guess anyway.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Hi there **Is this SUPER bold?** we're going to play.
 
 ## Inline HTML elements
 
