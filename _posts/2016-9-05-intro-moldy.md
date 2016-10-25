@@ -3,4 +3,5 @@ layout: post
 title: Introducing MOLDY! 
 
 
-![IntroducingMoldy]("https://raw.githubusercontent.com/bduckles/ABQ/gh-pages/images/Moldy.png")
+![IntroducingMoldy]("https://github.com/bduckles/ABQ/blob/gh-pages/images/Moldy.png?raw=true")
+
